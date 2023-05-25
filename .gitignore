@@ -63,3 +63,4 @@ venv
 .eggs/
 dist/
 pysurvive.egg-info/
+_skbuild/
